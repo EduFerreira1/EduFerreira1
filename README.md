@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi, I'm Eduardo!
+**Data Scientist | AI Engineer | BI & Data Automation Specialist**
 
-<!--
-**EduFerreira1/EduFerreira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Data Science & AI portfolio.  
+My mission is to turn complex data into strategic, actionable solutions that drive business growth and innovation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡️ Key Technical Skills
+
+- **Modeling & Machine Learning:**  
+  Regression, Classification, Clustering, Demand Forecasting, Credit problems, Fraud Detection 
+  *(Python, Scikit-learn, PySpark)*
+- **AI & NLP:**  
+  Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), LangChain, intelligent reporting and automation
+- **Data Engineering:**  
+  ETL/ELT (DataStage, PySpark, SQL), multi-source data integration, Data Quality & Governance, structured and unstructured data processing
+- **BI & Data Visualization:**  
+  Executive dashboards and data storytelling with Power BI, Qlik, Figma (UX/UI)
+- **Cloud & Development:**  
+  Version control (Git), automation with N8N, pipeline orchestration, Agile methodologies
+
+### 🚀 My Journey
+
+I have delivered impactful data-driven solutions at leading companies such as Banco do Brasil, Sebrae Nacional, V4 Company, and tech consultancies, specializing in predictive analytics, smart automation, and direct business impact.
+
+Passionate about innovation and applied AI, I strive to bridge the gap between technology and strategic decision-making.
+
+### 💡 Let's connect!
+
+- [LinkedIn](https://www.linkedin.com/in/eduferreiraa)
+- Email: contatoedu.fsg@gmail.com
+
+Feel free to explore my projects below.  
+Always open to new challenges and building the future of data!
+
